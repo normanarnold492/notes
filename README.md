@@ -51,3 +51,10 @@ To become a successful programmer, you must also develop excellent problem-solvi
 7. Continuously learn and keep up with the latest programming trends and technologies. Follow blogs, subscribe to newsletters, attend meetups, conferences, etc. to stay informed.      
 8. Practice good time management and set realistic deadlines for yourself. Don't be afraid to ask for help or delegate tasks to others when needed.       
 9. Stay organized and maintain a clean workspace. Keep your editor and files tidy, use version controls, commit often, push to the cloud, backup your data, follow good coding practices, organize your files, comment your codes, learn new technologies, practice time and task management, stay up-to-date with industry trends, collaborate, delegate, ask help, be patient, have fun, keep learning, don' t be scared to fail, make mistakes, try new things, enjoy the process, celebrate your success, reflect on your failures, improve yourself, grow, evolve, become a better programmer, a great programmer.
+
+# 2023-11-26
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help with this:
+
+1. Prioritize tasks: Always start with the most important tasks first. By doing this, you can ensure that you complete the tasks that are most critical to your project or assignment.
+2. Plan ahead: When starting a new project, create a plan with a timeline and milestones. this will keep you on track and help prevent last-minute panic. 
+3. Stay organized: Use project management tools, such as Trello or Asana, to keep track of tasks and deadlines. Also, make sure to organize your code and project files neatly and consistently.This will make it easier to find and maintain your coding projects.
