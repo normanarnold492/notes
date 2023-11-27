@@ -58,3 +58,6 @@ To become a successful programmer, you must also develop excellent problem-solvi
 1. Prioritize tasks: Always start with the most important tasks first. By doing this, you can ensure that you complete the tasks that are most critical to your project or assignment.
 2. Plan ahead: When starting a new project, create a plan with a timeline and milestones. this will keep you on track and help prevent last-minute panic. 
 3. Stay organized: Use project management tools, such as Trello or Asana, to keep track of tasks and deadlines. Also, make sure to organize your code and project files neatly and consistently.This will make it easier to find and maintain your coding projects.
+
+# 2023-11-27
+- "Write code that is easy to understand and maintain. Use clear and descriptive variable names, avoid unnecessary complexity, and document your code thoroughly. Remember, code is read more often than it is written, so make it readable for yourself and others who may need to work with it in the future."
