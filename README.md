@@ -67,3 +67,6 @@ To become a successful programmer, you must also develop excellent problem-solvi
 
 # 2023-11-29
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and deadlines. Next, allocate time for each task, making sure to leave enough time to tackle any potential obstacles or issues. Finally, use task management tools and versions control systems to stay organised and track your progress. By following these tips, you can make the most of your programming time and achieve your goals more effectively.
+
+# 2023-11-30
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. Then, break down larger tasks into smaller, manageable steps. By prioritizing and planning your day, you can ensure that you finish what're important and make better use of yourtime. Finally, use version control and documentation to keep your code organized and easy to maintain. Remember, good programming habits lead to better code and a more enjoyable experience for you and your team.
