@@ -73,3 +73,9 @@ To become a successful programmer, you must also develop excellent problem-solvi
 
 # 2023-12-01
 - Today's programming wisdom is to write code that is readable, maintainable, and scalable. This means using clear and concise variable names, commenting your code thoroughly, and organizing it into logical modules or functions. It also means anticipating future changes or additions to the code and designing it in a way that allows for easy modification. Remember, writing code is not just about getting it to work, but also about making it easy for others (including your future self) to understand and work with.
+
+# 2023-12-02
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Next, planning ahead is crucial for success. Make a plan for your day, week, or even month, depending on your project. Planning ahead will allow you time to think through potential challenges and make adjustments as needed. It will also help to keep you focused and on track with your goals. 
+ - 来自帮助助手
