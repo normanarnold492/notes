@@ -93,3 +93,9 @@ This quote reminds us that optimizing code before it's necessary can lead to com
 
 Secondly, planning ahead is crucial. Make sure you have a plan for your day, week, or even month. Knowing what you want to achieve and when will keep you on track and prevent you from getting sidetracked. Use task management tools like Trello or Asana to help keep track of your progress and make sure your plan stays organized and up-to-date. 
  -- 212个字符
+
+# 2023-12-06
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you complete the tasks that are most critical to your project.
+
+Next, use a scheduling tool or planner to plan out your day. Allocate time for each task, including breaks and time to handle any unexpected issues that may arise. Using a schedule will keep you on track and help prevent you from getting sidetracked. It will also give you a sense of accomplishment when you check off each item on your list. 
+ ..
