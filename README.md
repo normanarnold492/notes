@@ -114,3 +114,6 @@ First, prioritize your tasks. When you're working on a project, it' s important 
 1. Prioritize tasks: When you are working on a project, make sure to list the tasks in order of priority. You can use a task management tool like Trello or Asana to keep track of your tasks and their deadlines.
 2. Plan ahead: Always try to plan your projects ahead of time. By doing this, you can avoid last-minute panic and stress. Break down your project into smaller tasks that can be completed more easily. Also, don't be afraid to ask for help when you need it. There is always someone who can assist you in solving a problem or learning a new skill. 
 3. Stay organized: Keep your workspace clean and organized to reduce stress and confusion. Use folders, labels, or color-coding to organize your files and code. Additionally, use version control systems like Git to track your code changes and collaborate with others more efficiently.
+
+# 2023-12-10
+- "Keep it simple, stupid!"
