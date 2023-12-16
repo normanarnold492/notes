@@ -136,3 +136,8 @@ To stay current, make it a habit to read blogs, subscribe to newsletters, and at
 
 # 2023-12-15
 - "Keep it simple, stupid!"
+
+# 2023-12-16
+- "Premature optimization is the root of all evil" - Donald Knuth. 
+
+Focus on writing clear, correct and maintainable code first. Optimization should only be done after profiling and identifying bottlenecks.
