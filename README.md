@@ -141,3 +141,8 @@ To stay current, make it a habit to read blogs, subscribe to newsletters, and at
 - "Premature optimization is the root of all evil" - Donald Knuth. 
 
 Focus on writing clear, correct and maintainable code first. Optimization should only be done after profiling and identifying bottlenecks.
+
+# 2023-12-17
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code too early in the development process can lead to unnecessary complexity, harder maintenance, and potentially worse performance overall. It's better to write clear, simple code first and optimize only when necessary, based on profiling and measurement.
