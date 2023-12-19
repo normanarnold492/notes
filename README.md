@@ -157,3 +157,8 @@ Optimizing code too early in the development process can lead to unnecessary com
 5. Learn to say "no" to tasks that are outside your scope or don't align with your goals.    
 6. Stay up-to-date with new programming languages and technologies to stay competitive in the job market.     
 7. Don'ts: Procrastinate, multitask, or work long hours without breaks. These habits can lead to burnout and decreased productivity over time.
+
+# 2023-12-19
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to overly complex and difficult-to-maintain code. It's better to write clear, simple code first and optimize only when profiling indicates that a particular section of code is causing performance issues.
