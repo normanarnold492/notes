@@ -220,3 +220,10 @@ In essence, focus on writing clean, simple code rather than overly complex solut
 5. Write tests and use version control to make it easy to experiment, debug,and maintain your work. Test-driven development (TDD) can help ensure your solutions are robust and efficient.    
 6. Learn and stay up-todate with the latest programming techniques, tools, libraries, frameworks,etc., as they can significantly improve your productivity and the quality of yourwork.     
 7. Be open to feedback and criticism, use it to improve and learn from your mistakes. Don't be afraid to ask for help or advice from others in your field.
+
+# 2024-01-13
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge base. This involves staying up-to-date with new technologies, programming languages, and best practices. By doing so, you will be better equipped to solve complex problems and adapt to the ever-changing landscape of the tech industry.
+
+To become a proficient programmer, it is essential to practice regularly and develop a strong foundation in core concepts. Emphasizing problem-solving skills, logic, algorithms, data structures, software engineering, testing, debugging, version control, documentation, communication, teamwork, time management, attention to detail, as well as learning new things, will help you become an asset to any project or team. 
+ 学习新技能，不断更新自己的技能库和知识库。这包括跟上新技术、编程语言和最佳实践。通过这样做，你将更好地解决复杂问题，适应科技行业的不断变化。
+要成为一名熟练的程序员，定期练习并核心概念奠定基础至关重要。强调解决问题的能力、逻辑、算法、数据结构、软件工程、测试、调试、版本控制、文档、沟通、团队合作、时间管理、关注细节以及学习新知识，将帮助你成为任何项目或团队的财富。
