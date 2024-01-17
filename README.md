@@ -243,3 +243,8 @@ Next, use tools and resources to help manage your workflow. For example, using v
 First, prioritize your tasks. When you are working on a project, it is essential to determine which tasks are most important and which can be completed later. By prioritizing your work, you can make sure that you focus on the most critical aspects of the project and not get sidetracked by less important tasks or distractions. Use a task management tool, such as Trello or Asana, to help keep track of your priorities and progress. 
  -
 Second, planning ahead is crucial. Before beginning a new project or task, take the time to plan out your approach. Create a roadmap that outlines the steps you need to take to complete the task or project. Then, break down each step into smaller, manageable tasks and set deadlines for themselves. Planning ahead will ensure that your project stays on track and that there are no unexpected roadblocks along the way. It will also help to prevent last-minute panic and stress as you approach deadlines.
+
+# 2024-01-17
+- Today's programming wisdom: "Premature optimization is the root of all evil" - Sir Tony Hoare. 
+
+This quote emphasizes that over-concern with optimizing code before understanding its actual performance bottlenecks can lead to unnecessary complexity, harder maintenance, and potentially worse overall performance. Instead, focus first on writing clear, correct, and maintainable code. Profile your program to identify where optimizations are genuinely needed, then apply them judiciously.
