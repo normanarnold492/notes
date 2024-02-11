@@ -351,3 +351,10 @@ Secondly, planning ahead is crucial. Before starting a project, think about the 
 
 # 2024-02-10
 - "Keep it simple, stupid!"
+
+# 2024-02-11
+- Today's programming wisdom is to be a lifelong learner, always open to new ideas and technologies. This means staying up-to-date with the latest programming languages, frameworks, and tools. It also means understanding the importance of coding ethics and being responsible for the software you create.
+
+To be successful in the world of programming, it' s essential to have a solid foundation in core concepts such as data structures, algorithms, software engineering, version control, testing, debugging, performance optimization, security, etc. These concepts will help you build robust and efficient software systems. 
+ 学习新技能，如人工智能、机器学习和数据科学，可以帮助你扩大职业机会并提高你的市场价值。同时，要关注软技能的发展，例如沟通、团队协作和解决问题的能力，这些技能对于编程人员的成功至关重要。
+ 最后，保持好奇心和探索精神，勇于尝试新事物，这将帮助你在编程领域取得更大的成功。
