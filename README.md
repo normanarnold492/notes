@@ -423,3 +423,9 @@ Second, always plan beforehand. When starting a new project or working on a comp
 
 # 2024-02-24
 - "Keep it simple, stupid!"
+
+# 2024-02-25
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clean, maintainable code first; optimize only when necessary and after profiling. Remember that clarity and simplicity often lead to better performance in the long run." 
+
+In more detail:
+Optimization should not be your primary concern during the initial stages of development. Instead, concentrate on making your code correct, readable, and easily modifiable. As Knuth suggests, over-optimizing too early can result in complex, hard-to-understand code which may introduce bugs and hinder future development. It's wise to identify bottlenecks through profiling before deciding where to apply optimizations. Often, well-written algorithms and data structures inherently perform better than prematurely optimized ones.
