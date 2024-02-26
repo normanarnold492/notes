@@ -429,3 +429,8 @@ Second, always plan beforehand. When starting a new project or working on a comp
 
 In more detail:
 Optimization should not be your primary concern during the initial stages of development. Instead, concentrate on making your code correct, readable, and easily modifiable. As Knuth suggests, over-optimizing too early can result in complex, hard-to-understand code which may introduce bugs and hinder future development. It's wise to identify bottlenecks through profiling before deciding where to apply optimizations. Often, well-written algorithms and data structures inherently perform better than prematurely optimized ones.
+
+# 2024-02-26
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. Always strive to write clean, readable, and maintainable code. Reduce complexity by breaking down large problems into smaller, manageable functions or modules. Remember that code is read far more often than it's written, so invest time in making it easy to understand for yourself and others. Optimize for clarity and consistency over premature optimization. And finally, embrace version control and automated testing as they're indispensable tools for any modern programmer." 
+
+"Also, 'Code is like humor. When you have to explain it, it’s bad.' – Cory House. This quote emphasizes the importance of self-explanatory code that expresses its intent clearly, reducing the need for extensive comments."
